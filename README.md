@@ -1,6 +1,6 @@
 # Field: Multilingual oEmbed #
 
-Version: 1.0.x
+Version: 1.1.x
 
 > A multilingual version of the oembed_field extension
 
